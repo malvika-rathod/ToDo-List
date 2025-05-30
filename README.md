@@ -67,7 +67,3 @@ You can easily host this project using GitHub Pages:
 ## 🙌 Acknowledgements
 
 - Icons and images are custom-designed or sourced for educational/demo purposes.
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
